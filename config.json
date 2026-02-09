@@ -1,0 +1,6 @@
+{
+    "prefix" : "prefix",
+    "token" : "bot-token",
+    "delay" : "1",
+    "log_dms" : "on"
+}
